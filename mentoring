@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mentoring</title>
+<meta name="description" content="I have only limited time for mentoring additional projects at the moment. Ifyou want to work together and have already published papers in deepreinforcement ...">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="canonical" href="https://danijar.com/mentoring/">
+</head>
+<body>
+
+<header class="wrapper">
+<a class="logo" href="/">
+  
+  <img src="/asset/face.jpg">
+  
+  <div>
+    <span class="title">Danijar Hafner</span>
+    <span class="slogan">Artificial Intelligence Researcher</span>
+  </div>
+</a>
+<nav>
+<a href="/research">Research</a>
+<a href="/mentoring">Mentoring</a>
+<a href="/resources">Resources</a>
+</nav>
+</header>
+
+<main>
+<article class="wrapper">
+
+<h1>Mentoring</h1>
+
+<p>I have only limited time for mentoring additional projects at the moment. If
+you want to work together and have already published papers in deep
+reinforcement learning, please send me an email including your CV and project
+ideas. I’m looking forward to hearing from you!</p>
+
+<h2 id="current">Current</h2>
+
+<ul class="students">
+
+<li>
+<img src="/asset/students/jurgis.jpg" />
+<a href="https://www.linkedin.com/in/jurgispasukonis/" target="_blank">Jurgis Pašukonis</a>
+<p class="current">PhD</p>
+</li>
+
+<li>
+<img src="/asset/students/marius.jpg" />
+<a href="https://mariusmarten.github.io/" target="_blank">Marius Kaestingschaefer</a>
+<p class="current">MSc</p>
+</li>
+
+</ul>
+
+<h2 id="former">Former</h2>
+
+<ul class="students">
+
+<li>
+<img src="/asset/students/vaibhav.jpg" />
+<a href="http://www.cs.toronto.edu/~vaibhav/" target="_blank">Vaibhav Saxena</a>
+<p class="current">MSc</p>
+<p class="next">next: PhD at Georgia Tech</p>
+</li>
+
+<li>
+<img src="/asset/students/calvin.jpg" />
+<a href="https://www.linkedin.com/in/calvinyluo/" target="_blank">Calvin Luo</a>
+<p class="current">BSc</p>
+<p class="next">next: AI Resident at Google</p>
+</li>
+
+<li>
+<img src="/asset/students/ming.jpg" />
+<a href="https://alexlimh.github.io/" target="_blank">Minghan Li</a>
+<p class="current">MSc</p>
+<p class="next">next: PhD at U Waterloo</p>
+</li>
+
+<li>
+<img src="/asset/students/brendon.jpg" />
+<a href="https://github.com/bfmat" target="_blank">Brendon Matusch</a>
+<p class="current">High School</p>
+<p class="next">next: BSc at Stanford</p>
+</li>
+
+</ul>
+
+
+</article>
+
+</main>
+
+<footer>
+</footer>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-78082517-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<script async src='/scripts.js'></script>
+
+</body>
+</html>
